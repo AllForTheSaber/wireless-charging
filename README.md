@@ -2,4 +2,66 @@
 
 The project is based on the STM32G0 series chips. Below is the detailed configuration information of the HAL library.
 
-![Uploading image.png…]()
+PC10: EC1_SPA
+PC11: RCC_OSC32_IN
+PC12: RCC_OSC32_OUT
+PC13:
+PC14: VBAT
+PC15: VREF+
+VDD: Power Supply
+VSS: Ground
+PF0-0:
+PF1-0:
+NRST: Reset
+PC0:
+PC1:
+PC2:
+PC3:
+PA0:
+PA1:
+PA2:
+PA3: TIM2_CH1
+PA4: TIM2_CH1
+PA5: TIM2_CH1
+PA6: USART1_TX
+PA7: USART1_RX
+PA8:
+PA9: I2C1_SCL
+PA10: GPIO_Output
+PA11:
+PA12:
+PA13: SYS_SWDIO
+PA14: SYS_SWCLK
+PA15:
+PB0:
+PB1:
+PB2:
+PB3:
+PB4:
+PB5:
+PB6:
+PB7:
+PB8:
+PB9: GPIO_Output
+PB10:
+PB11:
+PB12:
+PB13:
+PB14:
+PB15:
+PD0:
+PD1:
+PD2:
+PD3:
+PD4:
+PD5:
+PD6:
+PD7:
+PD8:
+PD9: GPIO_Output
+PD10:
+PD11:
+PD12:
+PD13:
+PD14:
+PD15:
